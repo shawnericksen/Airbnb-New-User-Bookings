@@ -1,3 +1,8 @@
+microsoft-malware-prediction.zip
+sample_submission.csv
+train.csv
+test.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
