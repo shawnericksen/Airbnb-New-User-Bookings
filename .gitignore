@@ -2,6 +2,8 @@ microsoft-malware-prediction.zip
 sample_submission.csv
 train.csv
 test.csv
+.ipynb_checkpoints
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
