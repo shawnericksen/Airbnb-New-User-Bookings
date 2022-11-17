@@ -4,6 +4,8 @@ train.csv
 test.csv
 .ipynb_checkpoints
 .DS_Store
+dask-worker-space/
+mydask.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
