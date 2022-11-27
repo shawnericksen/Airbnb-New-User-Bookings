@@ -6,6 +6,7 @@ test.csv
 .DS_Store
 dask-worker-space/
 mydask.png
+airbnb-recruiting-new-user-bookings/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
