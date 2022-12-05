@@ -8,7 +8,7 @@ dask-worker-space/
 mydask.png
 airbnb-recruiting-new-user-bookings/
 models/
-submission.csv
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
